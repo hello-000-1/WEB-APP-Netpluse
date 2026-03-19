@@ -1,7 +1,7 @@
 
 import { TechItem } from './types';
 
-export const WHATSAPP_NUMBER = "51928567606?text=.menu+\nESTE+ES+UN+APP"; 
+export const WHATSAPP_NUMBER = "51928567606?text=.menu"; 
 export const GITHUB_URL = "https://github.com/hello-000-1/TIME"; 
 export const TIKTOK_URL = "https://www.tiktok.com/@elvis_sf"; 
 export const FACEBOOK_URL = "https://www.facebook.com/share/r/17rJmJLt14/";
