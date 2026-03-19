@@ -1,9 +1,9 @@
 
 import { TechItem } from './types';
 
-export const WHATSAPP_NUMBER = "51939467706?text=.menu"; 
+export const WHATSAPP_NUMBER = "51928567606?text=.menu+\nESTE+ES+UN+APP"; 
 export const GITHUB_URL = "https://github.com/hello-000-1/TIME"; 
-export const TIKTOK_URL = "https://vt.tiktok.com/ZSaWHc9Gw/"; 
+export const TIKTOK_URL = "https://www.tiktok.com/@elvis_sf"; 
 export const FACEBOOK_URL = "https://www.facebook.com/share/r/17rJmJLt14/";
 export const INSTAGRAM_URL = "https://www.instagram.com/elvis19797?igsh=Z2Ftd2FqeDlna3Q2";
 export const YOUTUBE_URL = "https://www.youtube.com/@elvis_fs";
